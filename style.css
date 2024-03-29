@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(77,14,235,1) 0%, rgba(36,36,37,1) 0%, rgba(41,43,61,1) 93%);
+    margin: 0;
+    padding: 0;
+  }
+  
+  .testemunhos {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fdfdfd;
+    border-radius: 5px;
+  }
+  
+  .testemunho {
+    margin-bottom: 20px;
+  }
+  
+  .testemunho img {
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .nome {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .texto {
+    font-style: italic;
+    line-height: 1.5;
+  }
+  
